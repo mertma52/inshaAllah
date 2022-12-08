@@ -5,8 +5,3 @@ window.Webflow.push(() => {
   const name = 'Serkan';
   greetUser(name);
 });
-function test() {
-  const vab = 43;
-  return vab;
-}
-test();
